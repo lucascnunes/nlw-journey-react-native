@@ -39,3 +39,28 @@ yarn-error.*
 
 expo-env.d.ts
 # @end expo-cli
+ios/.gitignore
+ios/.xcode.env
+ios/Podfile
+ios/Podfile.lock
+ios/Podfile.properties.json
+ios/planner/AppDelegate.h
+ios/planner/AppDelegate.mm
+ios/planner/Info.plist
+ios/planner/main.m
+ios/planner/noop-file.swift
+ios/planner/planner-Bridging-Header.h
+ios/planner/planner.entitlements
+ios/planner/PrivacyInfo.xcprivacy
+ios/planner/SplashScreen.storyboard
+ios/planner/Images.xcassets/Contents.json
+ios/planner/Images.xcassets/AppIcon.appiconset/App-Icon-1024x1024@1x.png
+ios/planner/Images.xcassets/AppIcon.appiconset/Contents.json
+ios/planner/Images.xcassets/SplashScreen.imageset/Contents.json
+ios/planner/Images.xcassets/SplashScreen.imageset/image.png
+ios/planner/Images.xcassets/SplashScreenBackground.imageset/Contents.json
+ios/planner/Images.xcassets/SplashScreenBackground.imageset/image.png
+ios/planner/Supporting/Expo.plist
+ios/planner.xcodeproj/project.pbxproj
+ios/planner.xcodeproj/xcshareddata/xcschemes/planner.xcscheme
+ios/planner.xcworkspace/contents.xcworkspacedata
