@@ -16,7 +16,7 @@
     "@expo-google-fonts/inter": "^0.2.3",
     "@expo/vector-icons": "^14.0.2",
     "@react-navigation/native": "^6.0.2",
-    "axios": "^1.7.2",
+    "axios": "^1.7.4",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.11",
     "expo": "~51.0.18",
